@@ -1,3 +1,8 @@
+<img width="937" height="362" alt="image" src="https://github.com/user-attachments/assets/4f00e2dc-273d-4b41-a512-852130030d07" />
+<img width="1915" height="945" alt="image" src="https://github.com/user-attachments/assets/d609271a-652e-43f5-9b5a-a3088887870b" />
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/3ee780d5-1d92-4463-aba7-8b99e7296de5" />
+<img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/9a31f360-2164-4fa7-8b94-7244973c0492" />
+
 # Node.js Application - DevSecOps & Monitoring
 
 [![DevSecOps Pipeline](https://github.com/xlr-aex/TP_DEVSECOPS/actions/workflows/devsecops.yml/badge.svg)](https://github.com/xlr-aex/TP_DEVSECOPS/actions/workflows/devsecops.yml)
@@ -48,3 +53,6 @@ Ce tableau de bord personnalisé affiche les performances RED (Rate, Errors, Dur
 Les ressources de la machine hôte Docker (CPU, RAM, Réseau, Disque) sont surveillées grâce au tableau de bord communautaire (ID 1860).
 
 ![Dashboard Système Node Exporter](images/node_exporter.png)
+
+
+
