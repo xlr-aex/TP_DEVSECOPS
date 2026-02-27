@@ -38,5 +38,6 @@ app.get('/metrics', async (req, res) => {
     res.set('Content-Type', register.contentType);
     res.end(await register.metrics());
 });
+app.get('/error', (req, res) => res.status(500).json({ error: 'Internal Server Error (Test)' }));
 
 app.listen(3000, () => console.log('App démarrée sur le port 3000'));
